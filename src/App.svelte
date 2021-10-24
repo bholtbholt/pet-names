@@ -12,6 +12,7 @@
       length: 2,
       style: 'capital',
     });
+    navigator.clipboard.writeText(name);
   }
 </script>
 
