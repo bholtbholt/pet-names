@@ -15,7 +15,7 @@
     "prettier-plugin-svelte": "^2.4.0",
     "svelte": "^3.49.0",
     "tailwindcss": "^2.2.17",
-    "vite": "^2.9.13"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "unique-names-generator": "^4.6.0"
